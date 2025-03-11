@@ -1,0 +1,5 @@
+npm init: Creating package.json use the
+npm install --save express: for installing express
+node: tool that automatically restarts your Node.js server whenever you make changes to your code.
+npm install -g nodemon: The -g flag means global installation, so nodemon can be used anywhere on your system, not just in one project.
+nodemon index.js: starts the server at specified port
