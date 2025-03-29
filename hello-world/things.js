@@ -8,4 +8,4 @@ router.get('/', function(req, res){
 router.post('/', function(req, res){
     res.send('POST route on things.');
 })
- module.exports= router;//exporting this router to be used elsewhere
+module.exports= router;//exporting this router to be used elsewhere
