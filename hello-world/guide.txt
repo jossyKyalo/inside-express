@@ -6,3 +6,4 @@ nodemon index.js: starts the server at specified
 npm install --save body-parser: install body-parser which is used to parse the body of requests which have payloads attached to them.
 npm i --save cookie-parser: to installl cookie-parser which parses cookie header and populate req.cookies with an object keyed by cookie names.
 npm install --save pug: installation of pu a templating engine for express
+npm install --save body-parser multer: multer for parsing mutlipart or form data
