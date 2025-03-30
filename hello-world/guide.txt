@@ -2,4 +2,6 @@ npm init: Creating package.json use the
 npm install --save express: for installing express
 node: tool that automatically restarts your Node.js server whenever you make changes to your code.
 npm install -g nodemon: The -g flag means global installation, so nodemon can be used anywhere on your system, not just in one project.
-nodemon index.js: starts the server at specified port
+nodemon index.js: starts the server at specified 
+npm install --save body-parser: install body-parser which is used to parse the body of requests which have payloads attached to them.
+npm i --save cookie-parser: to installl cookie-parser which parses cookie header and populate req.cookies with an object keyed by cookie names.
