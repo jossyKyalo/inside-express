@@ -7,3 +7,4 @@ npm install --save body-parser: install body-parser which is used to parse the b
 npm i --save cookie-parser: to installl cookie-parser which parses cookie header and populate req.cookies with an object keyed by cookie names.
 npm install --save pug: installation of pu a templating engine for express
 npm install --save body-parser multer: multer for parsing mutlipart or form data
+npm install --save expression-session: install the sessio for sending requests
